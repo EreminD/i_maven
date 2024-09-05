@@ -1,5 +1,5 @@
 ###
-`mvn package`
+`mvn package`  
 `java -jar target/inzhenerka_maven-1.0-SNAPSHOT.jar`
 
 ### Maven
