@@ -1,0 +1,20 @@
+{
+  "src": "",
+  "dst": "",
+  "dependencies": [
+    {
+      "groupId": "com.github.javafaker",
+      "artifactId": "javafaker",
+      "version":  "1.0.2"
+    },
+    {
+      "groupId": "com.fasterxml.jackson.core",
+      "artifactId": "jackson-databind",
+      "version":  "2.17.2"
+    }
+  ],
+  "repositories": [
+    "https://repo1.maven.org/maven2"
+  ]
+}
+
